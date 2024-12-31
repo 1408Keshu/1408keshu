@@ -1,6 +1,6 @@
 <div align="center">
   
-## 💫 About Me:
+# 💫 About Me:
 
 
 Hi there! 👋 I'm Keshav Chauhan, a passionate full stack developer with a love for solving real-world problems through code. I enjoy contributing to open-source projects and continuously learning new technologies.
@@ -12,7 +12,7 @@ Hi there! 👋 I'm Keshav Chauhan, a passionate full stack developer with a love
 <br>
 <div align="center">
 
-## 🌐 Socials 
+# 🌐 Socials 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keshav_chauhan77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-chauhan-83b940296) 
 
 </div>
