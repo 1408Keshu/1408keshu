@@ -55,7 +55,7 @@ Hi there! 👋 I'm Keshav Chauhan, a passionate full stack developer with a love
 <br>
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/1408keshu/badge-it)](https://badges.pufler.dev)
+![Visitor Count](https://profile-counter.glitch.me/{1408keshu}/count.svg)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
