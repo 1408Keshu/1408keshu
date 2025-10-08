@@ -30,11 +30,10 @@ const keshav = {
         },
         backEnd: {
             js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL", "Oracle", "Firebase"],
-        devOps: ["Docker", "AWS", "Git", "GitHub Actions"],
-        tools: ["Postman", "VS Code", "Figma", "Webpack"]
+        devOps: ["Docker", "Git", "GitHub Actions"],
+        tools: ["Postman", "VS Code", "Figma"]
     },
     currentFocus: "Building Full Stack Applications with MERN Stack",
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
@@ -94,10 +93,9 @@ const keshav = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### ☁️ DevOps & Cloud Services
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
