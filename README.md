@@ -140,6 +140,24 @@ const keshav = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<h2 align="center">🏆 Hacktoberfest Achievements 🏆</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-orange?style=for-the-badge&logo=digitalocean" alt="Hacktoberfest"/>
+</p>
+
+<div align="center">
+  
+[![An image of @1408keshu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/1408keshu)](https://holopin.io/@1408keshu)
+
+<p>
+  <sub>✨ Celebrating open source contributions ✨</sub>
+</p>
+
+</div>
+
+---
+
 ## 💭 Random Dev Quote
 
 <div align="center">
