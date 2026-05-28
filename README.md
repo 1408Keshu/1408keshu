@@ -153,15 +153,16 @@ const keshav = {
 
 </div>
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💭 Random Dev Quote
-
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <a href="https://leetcode.com/Keshavchauhan-dev">
+    <img src="https://leetcard.jacoblin.cool/Keshavchauhan-dev?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </div>
+
+
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 <hr/>
